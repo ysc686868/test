@@ -1,1 +1,1 @@
-void test ();
+bool test ();
